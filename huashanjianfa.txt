@@ -1,3 +1,6 @@
 华山剑法，天下第一!
 我是令狐冲，我比岳不群还厉害！edit by 令狐冲for testing conflict
+=======
+我是令狐冲，我比岳不群还厉害！ edit by 岳不群 for testing conflict
 令狐冲第二次修改后添加到岳不群的远程库
+这已经是令狐冲拉取远程分支，解决合并冲突后产生的新的节点commit的快照文件内容
